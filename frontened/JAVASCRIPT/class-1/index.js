@@ -82,7 +82,7 @@ console.log(`my name is: ${name},age is: ${age},and city is:${city},college_name
 
 console.log(city.length);//7
 
-let my_website
+
 
 
 
